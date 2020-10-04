@@ -13,7 +13,10 @@
   },
   "author": "LRafaelano",
   "license": "ISC",
-  
+    "dependencies": {
+      "body-parser": ""
+    },
+
   "bugs": {
     "url": "https://github.com/LRafaelano/API-Rest/issues"
   },
